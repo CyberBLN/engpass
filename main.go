@@ -144,7 +144,7 @@ func generatePDF(w io.Writer, targetURL string) error {
 	pdf.ImageOptions(
 		"assets/images/logo-projekt.png",
 		120, // x
-		220, // y
+		267, // y
 		70,  // w
 		0,   // h = auto
 		false,
